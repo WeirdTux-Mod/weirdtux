@@ -9,10 +9,10 @@
 ; jam -sDESTDIR="/build/supertux/build/innosetup" install
 ;
 
-#define MyAppName "SuperTux"
-#define MyAppVer "0.3.5a"
-#define MyAppVerName "SuperTux 0.3.5a"
-#define MyAppPublisher "SuperTux Development Team"
+#define MyAppName "WeirdTux"
+#define MyAppVer "0.3.6"
+#define MyAppVerName "WeirdTux 0.3.6"
+#define MyAppPublisher "WeirdTux Development Team"
 #define MyAppURL "http://supertux.lethargik.org"
 #define MyAppExeName "supertux2.exe"
 #define RootDir "..\.."
