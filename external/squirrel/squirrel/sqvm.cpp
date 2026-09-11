@@ -1,6 +1,7 @@
 /*
 	see copyright notice in squirrel.h
 */
+#include <cmath>
 #include "sqpcheader.h"
 #include <math.h>
 #include <stdlib.h>
