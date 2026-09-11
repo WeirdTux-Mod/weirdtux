@@ -15,7 +15,7 @@
 15. Improve playability of Bonus Level
 16. Fix background of Bonus Level (also maybe use snowcastle image?)
 17. Require the player to go down to the castle in Bonus Level to reach the end of Bonus Level
-18. Re-Add Wisp Hunt (bridge levels use it)
+18. Re-Add Wisp Hunt (bridge levels use it) (Done)
 19. Remove weird Tux and Penny signs from The Castle Of Nolok (it doesn't fit the level)
 20. Improve playability of The Castle Of Nolok
 21. Fix Tiling issues in The Castle Of Nolok
