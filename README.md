@@ -19,16 +19,16 @@ WeirdTux is a fork of SuperTux v0.3.5a that is intended to be like my
 own small little strange fork of SuperTux v0.3.5a.
 
 Here's what it will add / remove / change:
-- Removal of data-lowres folder (seems to be unused)
-- Forest World remake (but before that, removal so Icy Island can be focused on)
-- Removal of unnecessary graphics (nightsky.png, forest1.jpg, dummyguy, cherry bomb, juicebox, etc...)
-- Removal of unnecessary add-ons (Incubator, Bonus Island 3)
-- Removal of unused graphics and music (cut down the file size a lot)
-- A little bit of reorganization
-- Desert Island (World 3)
-- Various bug fixes from SuperTux v0.4, possibly v0.5?
-- Removal of contrib folder (all it has is just few very old things that probably don't work anymore)
-- Compilation fixes (done)
+- [x] Removal of data-lowres folder (seems to be unused)
+- [ ] Forest World remake (but before that, removal so Icy Island can be focused on)
+- [ ] Removal of unnecessary graphics (nightsky.png, forest1.jpg, dummyguy, cherry bomb, juicebox, etc...)
+- [x] Removal of unnecessary add-ons (Incubator, Bonus Island 3)
+- [x] Removal of unused graphics and music (cut down the file size a lot) (sort of done)
+- [ ] A little bit of reorganization
+- [ ] Desert Island (World 3)
+- [ ] Various bug fixes from SuperTux v0.4, possibly v0.5?
+- [x] Removal of contrib folder (all it has is just few very old things that probably don't work anymore)
+- [x] Compilation fixes
 
 Story: Penny gets captured!
 ---------------------------
