@@ -60,3 +60,21 @@
 60. Fix level height of Too easy
 61. Make Still too easy a bit easier
 62. Fix level height of Still too easy
+63. Make fake walls in ...Where Everything Is Possible be actual background tiles
+64. Fix beginning of Think Fast, or Die (Autoscroll starts without Tux on screen)
+65. Fix level height of Think Fast, or Die
+66. Improve playability of Think Fast, or Die
+67 (HAHA). Make autoscroll of Think Fast, or Die faster
+68. Fix level height of Mario's Supposed to Deal With This...
+69. Fix background of Mario's Supposed to Deal With This... (maybe make it a sky level?)
+70. Improve playability of Mario's Supposed to Deal With This...
+71. Speed up autoscroll of Mario's Supposed to Deal With This...
+72. Fix level height of Into The Cave
+73. Use background tiles in Into The Cave
+74. Fix level height of Cliff Jumping
+75. Fix level height of A Cold Day
+76. Make A Cold Day less confusing
+77. Remove Blind To The World (It can't be saved)
+78. Fix Tradition (level height and overall level design)
+79. Fix A Long Journey (level height and overall level design)
+80. Fix other Bonus Island 2 levels (pretty much all of them!)
