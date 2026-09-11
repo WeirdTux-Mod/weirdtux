@@ -1,0 +1,62 @@
+1. Fix direction of gradient in Via Nostalgica
+2. Fix direction of gradient in Tobgle Road
+3. Fix direction of gradient in The Somewhat Smaller Bath
+4. Fix direction of gradient in The Frosted Fields
+5. Improve playability of 23rd Airborne
+6. Remove useless Flying Snowballs in 23rd Airborne
+7. Improve playability of Night Chill
+8. Look at Into The Stars a bit more closely (maybe also improve playability)
+9. Improve playability of Above The Arctic Skies (also add air flower)
+10. Improve playability of Entrance to the Cave
+11. Improve beginning of A Path in the Clouds
+12. Improve beginning of The Escape
+13. Remove Jumpys at end of The Escape
+14. Remove strange invisible blocks in Bonus Level when going down to castle
+15. Improve playability of Bonus Level
+16. Fix background of Bonus Level (also maybe use snowcastle image?)
+17. Require the player to go down to the castle in Bonus Level to reach the end of Bonus Level
+18. Re-Add Wisp Hunt (bridge levels use it)
+19. Remove weird Tux and Penny signs from The Castle Of Nolok (it doesn't fit the level)
+20. Improve playability of The Castle Of Nolok
+21. Fix Tiling issues in The Castle Of Nolok
+22. Use new lava to replace old lava in levels that use old lava
+23. Remove secret from No More Mr Ice Guy (it's pretty much almost impossible to reach)
+24. Remove invisible tiles from Bonus Dias and replace them with invisible blocks
+25. Remove secret room with Snowball from Bonus Dias or replace the way to get there
+26. Add secret area objects in Bonus Dias
+27. Use blue pipes in Have I been here before?
+28. Fix level height of Bad Guys Stink!
+29. Reduce enemy spam of Pipe Down Over There
+30. Fix level height of Pipe Down Over There
+31. Add secret area objects to Pipe Down Over There
+32. Use new water wherever needed
+33. Fix level height of Something Fishy
+34. Reduce enemy spam of Something Fishy
+35. Fix level hegiht of Fire In The Sky
+36. Remove really weird invisible tile(s) in Fire In The Sky
+37. Reduce enemy spam of A Long Way Home
+38. Use actual background tiles for background tiles in Castle Gate
+39. Use snowcastle background in Bonus Island Castle
+40. Reduce flame spam of Bonus Island Castle
+41. Fix level height of Semi-Frozen
+42. Fix level height of Cave Of Mirrors
+43. Fix A Maze In The Sky starting with Tux not on screen
+44. Fix level height of A Maze In The Sky
+45. Fix level height of Collapse Imminent!
+46. Improve beginning of Tip Of The Iceberg
+47. Fix level height of Tip Of The Iceberg
+48. Remove cloud particles from Tip Of The Iceberg
+49. Add background to Tip Of The Iceberg
+50. Reduce enemy spam of Flight Test
+51. Fix level height of Flight Test
+52. Reduce enemy spam of Dungeons but no Dragons
+53. Fix level height of Dungeons but no Dragons
+54. Improve playability of Lies! (Make it so you don't need to just guess)
+55. Reduce enemy spam of Train Leaves in One Minute
+56. Fix level height of Train Leaves in One Minute
+57. Fix background of Train Leaves in One Minute
+58. Fix level height of A good start
+59. Make Too easy a bit easier
+60. Fix level height of Too easy
+61. Make Still too easy a bit easier
+62. Fix level height of Still too easy

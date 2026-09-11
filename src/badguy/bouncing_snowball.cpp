@@ -65,7 +65,8 @@ BouncingSnowball::collision_solid(const CollisionHit& hit)
     physic.set_velocity_y(0);
   }
 
-  if(hit.left || hit.right) { // left or right collision
+  // direction must correspond according to supertux code
+  if((hit.left && dir == LEFT) || (hit.right && dir == RIGHT)) { // left or right collision
     dir = dir == LEFT ? RIGHT : LEFT;
     sprite->set_action(dir == LEFT ? "left" : "right");
     physic.set_velocity_x(-physic.get_velocity_x());

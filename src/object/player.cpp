@@ -484,11 +484,18 @@ Player::update(float elapsed_time)
   }
 
 }
+bool
+Player::slightly_above_ground()
+{
+  float abs_vy = std::abs(physic.get_velocity_y());
+  float ground_y_delta = std::abs(last_ground_y - get_pos().y);
+  return (abs_vy == 15.625 || abs_vy == 31.25) && ground_y_delta < 0.85;
+}
 
 bool
 Player::on_ground()
 {
-  return on_ground_flag;
+  return on_ground_flag || slightly_above_ground();
 }
 
 bool
@@ -1082,6 +1089,10 @@ Player::add_bonus(BonusType type, bool animate)
 bool
 Player::set_bonus(BonusType type, bool animate)
 {
+  if(dying) {
+    return false;
+  }
+
   if((player_status->bonus == NO_BONUS) && (type != NO_BONUS)) {
     if (!adjust_height(BIG_TUX_HEIGHT)) {
       log_debug << "Can't adjust Tux height" << std::endl;
@@ -1398,7 +1409,7 @@ Player::collision_solid(const CollisionHit& hit)
       physic.set_velocity_y(.2f);
   }
 
-  if(hit.left || hit.right) {
+  if((hit.left || hit.right) && hit.slope_normal.x == 0) {
     physic.set_velocity_x(0);
   }
 
